@@ -178,7 +178,22 @@ int main(int argc, char **argv)
 
 	printSerial();
 
-	printf("Warning: This software was written by a not nice person.\n\n");
+	printf("Warning: Make your nand backup before using this software!\n\nThis is Switch's Condom to keep your switch safe from Nintendo's evil servers!\n\n");
+	printf("\n\n");       
+	printf("\t   _/¯\\_\n");
+	printf("\t  /     \\\n");	
+	printf("\t (       )\n");
+	printf("\t | - -  -|\n");
+	printf("\t } -  -  {\n");
+	printf("\t }- -  - {\n");	
+	printf("\t } - -  -{\n");
+	printf("\t }-  - - {\n");
+	printf("\t }- -  - {\n");
+	printf("\t } - - - {\n");
+	printf("\t | - - - |\n");
+	printf("\t |_______|\n");
+	printf("\t(_________)\n");
+	printf("\n\n"); 
 	
 	mainMenu();
 
